@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Images/cover-image.png" alt="Tamil Nadu Election Analysis" width="100%">
+</p>
+
 # 🗳️ Decoding the 2026 Tamil Nadu Assembly Election
 
 ### A Data-Driven Analysis of Electoral Shifts, Vote Share Dynamics & Regional Dominance
