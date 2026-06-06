@@ -1,3 +1,7 @@
+-- Analysis: Top 10 Largest Victory Margins
+-- Objective: Calculate the largest winning margins across constituencies
+-- Purpose: Identify constituencies with the strongest electoral mandates
+
 WITH ranked AS (
     SELECT *,
            ROW_NUMBER() OVER(
