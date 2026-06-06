@@ -1,3 +1,7 @@
+-- Analysis: Top 10 Closest Election Contests
+-- Objective: Identify constituencies with the smallest winning margins
+-- Purpose: Highlight the most competitive races in the election
+
 WITH ranked AS (
     SELECT *,
            ROW_NUMBER() OVER(
