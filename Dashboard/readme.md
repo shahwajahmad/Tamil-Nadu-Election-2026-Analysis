@@ -1,3 +1,3 @@
-## Dashboard Preview
+# Dashboard Preview
 
-![Dashboard](Dashboard/dashboard-overview.png)
+![Dashboard](./dashboard-overview.png)
