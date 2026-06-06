@@ -1,4 +1,4 @@
-![Cover Image](https://github.com/shahwajahmad/shahwajahmad/blob/main/Slide%201%20-%20Cover.png?raw=true)
+![Cover Image](https://github.com/shahwajahmad/shahwajahmad/blob/main/Slide%201%20%E2%80%93%20Cover.png)
 
 # 🗳️ Decoding the 2026 Tamil Nadu Assembly Election
 
