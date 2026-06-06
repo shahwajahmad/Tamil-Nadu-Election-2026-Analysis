@@ -1,3 +1,7 @@
+-- Analysis: Political Swing Analysis (2021 vs 2026)
+-- Objective: Compare party seat performance between the 2021 and 2026 elections
+-- Purpose: Identify major gainers, losers, and shifts in political dominance
+
 SELECT
     w2021.party AS party_2021,
     w2026.party AS party_2026,
