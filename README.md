@@ -117,9 +117,29 @@ Tamil-Nadu-Election-2026-Analysis
 
 Data Analyst | SQL | Power BI | Excel
 
-📧 [shahwajahmad58@gmail.com](mailto:shahwajahmad58@gmail.com)
+## 🎥 Video Presentation
 
-🔗 LinkedIn: https://www.linkedin.com/in/shahwaj-ahmad-193168232/
+Watch the complete project walkthrough here:
+
+https://youtu.be/68GmbcfZIOo
+
+The video covers:
+
+* Project Overview
+* Power BI Dashboard Walkthrough
+* Political Swing Analysis
+* Region-wise Party Dominance
+* Top Vote-Getting Candidates
+* Closest Election Contests
+* Largest Victory Margins
+* Key Findings & Conclusion
+
+Connect With Me
+LinkedIn: https://www.linkedin.com/in/shahwaj-ahmad-193168232/
+
+GitHub: https://github.com/shahwajahmad
+
+Portfolio: https://codebasics.io/portfolio/Shahwaj-Ahmad
 
 ---
 
