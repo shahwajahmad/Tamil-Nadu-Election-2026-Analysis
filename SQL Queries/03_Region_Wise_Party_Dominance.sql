@@ -1,3 +1,7 @@
+-- Analysis: Region-wise Party Dominance
+-- Objective: Evaluate party performance across different regions of Tamil Nadu
+-- Purpose: Identify regional strongholds and leading political parties
+
 SELECT
     region,
     party,
