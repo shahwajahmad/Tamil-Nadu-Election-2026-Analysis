@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="Images/cover-image.png" alt="Tamil Nadu Election Analysis" width="100%">
-</p>
+![Cover Image](Images/cover-image.png)
 
 # 🗳️ Decoding the 2026 Tamil Nadu Assembly Election
 
