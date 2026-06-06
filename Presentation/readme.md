@@ -1,23 +1,27 @@
 # Presentation Deck
 
-This folder contains the stakeholder presentation created for the Resume Project Challenge: Decoding the 2026 Tamil Nadu Assembly Election.
+This folder contains the stakeholder presentation created for the analysis of the 2026 Tamil Nadu Assembly Election.
 
-## Presentation Overview
+## Presentation Highlights
 
-The presentation highlights:
+- Election overview
+- Political swing analysis (2021 vs 2026)
+- Region-wise party dominance
+- Top vote-getting candidates
+- Closest election contests
+- Largest victory margins
+- Key findings and conclusions
+- SQL methodology
 
-- Election overview and key statistics
-- Vote share and seat distribution analysis
-- Party performance comparison
-- Regional and constituency-level insights
-- Major election trends and findings
-- Editorial recommendation
-- Project limitations
+## Tools Used
 
-## File
+- PowerPoint
+- Excel
+- SQL
+- Power BI
 
-📄 Decoding the 2026 Tamil Nadu Assembly Election.pdf
+## File Included
 
-## Purpose
+- Decoding the 2026 Tamil Nadu Assembly Election.pdf
 
-The deck is designed to communicate complex election data through a clear storytelling approach, helping stakeholders understand key electoral patterns and outcomes.
+The presentation follows a data storytelling approach to communicate election insights in a clear and engaging manner.
